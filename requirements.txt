@@ -1,0 +1,15 @@
+catboost
+geopy
+lightgbm
+matplotlib
+numpy
+pandas
+pyarrow
+python-dateutil
+pytz
+requests
+scikit-learn
+scipy
+statsmodels
+tqdm
+tzlocal

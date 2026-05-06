@@ -1,0 +1,22 @@
+{
+  "city": "project_id",
+  "lat": 0.0,
+  "long": 0.0,
+  "first_date": "01-01-2021 00:00",
+  "last_date": "31-12-2021 23:00",
+  "color_net": "#1f77b4",
+  "color_wund": "#ff7f0e",
+  "color_ows": "#2ca02c",
+  "color_cws": "#9467bd",
+  "color_outliers": "#d62728",
+  "cwd_data_str": "../data/project_id/data/1_structured",
+  "cwd_data_meta": "../data/project_id/data/0_metadata",
+  "cwd_data_qc": "../data/project_id/data/2_filtered",
+  "cwd_data_qc_results": "../data/project_id/results/20_quality_control",
+  "name_coordinates_wunder": "Coordinates_<CITY>_CWS_Wunderground_str_all.csv",
+  "name_ta_wunder": "ta_<CITY>_<YEARSPAN>_h_CWS_Wunderground_str.csv",
+  "name_coordinates_net": "Coordinates_<CITY>_CWS_Netatmo_str_all.csv",
+  "name_ta_net": "ta_<CITY>_<YEARSPAN>_h_CWS_Netatmo_str.csv",
+  "name_coordinates_ows": "Coordinates_<CITY>_OWS_str_all.csv",
+  "name_ta_ows": "ta_<CITY>_<YEARSPAN>_h_OWS_str.csv"
+}

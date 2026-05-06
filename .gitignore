@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+/data/
+/outputs/
+/results/
+*.cbm
+*.parquet
+*.pkl
+*.pickle
+path_to_data.txt
+!path_to_data.txt.example

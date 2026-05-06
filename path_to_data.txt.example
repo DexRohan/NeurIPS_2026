@@ -1,0 +1,9 @@
+# Copy this file to path_to_data.txt and replace the line below with the root
+# directory that contains your non-redistributable project folders.
+#
+# Example layout after setting this file:
+#   <DATA_ROOT>/project_id/config_project.py
+#   <DATA_ROOT>/project_id/data/...
+#   <DATA_ROOT>/project_id/results/...
+
+/path/to/external/data_root
