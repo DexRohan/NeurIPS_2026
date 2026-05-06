@@ -39,7 +39,3 @@ The notebook runners are in `notebooks/`. The main stages are:
 7. `25_CWS_Spatial_Support_Audit.ipynb`
 
 The scripts can also be imported directly from `scripts/preprocesing/` and `scripts/timestructure/`. The code defaults to relative paths or environment variables; no local machine paths are required.
-
-## Anonymous-review note
-
-Author names, account identifiers, public repository links, local machine paths, notebook outputs, and nonessential explanatory comments have been removed for anonymous review. Restore any required public attributions, URLs, and de-anonymized paths only in the camera-ready/public release.
